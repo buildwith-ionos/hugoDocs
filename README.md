@@ -46,3 +46,7 @@ Serving pages from memory
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
+
+## Deploy to BuildWith Ionos
+
+[![Ship to IONOS](ship-to-ionos-button.png)](https://buildwith.ionos.com/setup?repo=https://github.com/buildwith-ionos/hugoDocs)
