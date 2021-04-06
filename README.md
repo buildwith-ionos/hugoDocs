@@ -49,4 +49,4 @@ Press Ctrl+C to stop
 
 ## Deploy to BuildWith Ionos
 
-[![Ship to IONOS](ship-to-ionos-button.png)](https://buildwith.ionos.com/setup?repo=https://github.com/buildwith-ionos/hugoDocs)
+[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/ionos-deploy-now/hugoDocs)
